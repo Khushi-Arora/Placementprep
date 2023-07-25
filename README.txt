@@ -11,3 +11,4 @@ h)Merge 2 sorted lists
 #GRAPH
 a)storing adjacency list
 b)Breadth First Search
+c)depth first search
